@@ -2,6 +2,9 @@
 
 Send custom notifications to a jailbroken PS5 from any PC app — Python GUI, Electron, Node.js, or anything that can open a TCP socket.
 
+<img width="637" height="244" alt="image" src="https://github.com/user-attachments/assets/454aedcd-94a6-417c-a749-3a9beb6456c8" />
+
+
 ---
 
 ## How it works
