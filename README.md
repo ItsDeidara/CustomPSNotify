@@ -72,7 +72,3 @@ The payload responds with:
 {"ok": true}
 ```
 ---
-
-## License
-
-MIT
